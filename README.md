@@ -141,15 +141,6 @@ Then run `Spooky Game.exe`.
 
 ---
 
-## 🗺️ Roadmap
-
-- [ ] Commit full project source (engine project files, scripts, scenes) to this repo
-- [ ] Add repo description, topics, and cover image on GitHub
-- [ ] Add a gameplay trailer to this README
-- [ ] Expand beyond the mansion with additional levels
-
----
-
 ## 👨‍💻 Author
 
 **Arya Lunawat** <br>
