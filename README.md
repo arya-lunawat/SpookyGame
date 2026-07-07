@@ -27,10 +27,11 @@ There is only one goal now: **find a way out before the house claims you forever
 
 ## ✨ Features
 
-- 🌲 Atmospheric jungle-to-mansion opening sequence that sets up the story
-- 🏚️ Exploration-driven haunted house environment
-- 👹 Enemy encounters (monsters/zombies) blending survival and shooter mechanics
-- 🧩 Puzzle elements gating progression through the mansion
+- 🌲 Atmospheric forest-to-mansion opening sequence that sets up the story
+- 🏚️ Multi-level haunted house with distinct rooms to explore across Level 1 and Level 2
+- 🧟 Zombie and maze-monster encounters blending survival and shooter mechanics
+- 🔫 Ammunition pickups to manage as you fight your way through
+- 🧩 Puzzle elements (including an eye puzzle) gating progression through the mansion
 - 🎧 Single-player horror experience built for immersion
 
 **Tags:** `Survival` · `Puzzle` · `Shooter` · `3D` · `Horror` · `Monsters` · `Singleplayer` · `Zombies`
@@ -39,9 +40,79 @@ There is only one goal now: **find a way out before the house claims you forever
 
 ## 📱 Screenshots
 
-<div align="center">
-<i>Screenshots coming soon — add gameplay captures here (e.g. <code>screenshots/mansion-entrance.png</code>, <code>screenshots/gameplay.png</code>)</i>
-</div>
+### The Descent
+
+<table>
+  <tr>
+    <td align="center"><b>The Forest</b></td>
+    <td align="center"><b>The Haunted House</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/forest.png" width="380"/></td>
+    <td><img src="screenshots/hauntedhouse.png" width="380"/></td>
+  </tr>
+</table>
+
+### Level 1
+
+<table>
+  <tr>
+    <td align="center"><b>Level 1 Room</b></td>
+    <td align="center"><b>Ammunition Pickup</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/level1room.png" width="380"/></td>
+    <td><img src="screenshots/ammunition.png" width="380"/></td>
+  </tr>
+</table>
+
+### Level 2
+
+<table>
+  <tr>
+    <td align="center"><b>Level 2, Room 1</b></td>
+    <td align="center"><b>Level 2, Room 2</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/level2room.png" width="380"/></td>
+    <td><img src="screenshots/level2room2.png" width="380"/></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><b>Pottery Room</b></td>
+    <td align="center"><b>"Get Out" Graffiti</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/pottery.png" width="380"/></td>
+    <td><img src="screenshots/getoutgraffitti.png" width="380"/></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><b>Zombie Encounter I</b></td>
+    <td align="center"><b>Zombie Encounter II</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/zombie1.png" width="380"/></td>
+    <td><img src="screenshots/zombie2.png" width="380"/></td>
+  </tr>
+</table>
+
+### Puzzles & Enemies
+
+<table>
+  <tr>
+    <td align="center"><b>Maze Monster</b></td>
+    <td align="center"><b>Eye Puzzle</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/monster.png" width="380"/></td>
+    <td><img src="screenshots/puzzle.png" width="380"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -54,7 +125,7 @@ There is only one goal now: **find a way out before the house claims you forever
 
 ---
 
-## 🚀 Playing & Installing
+## 🚀 Getting Started
 
 ### Play instantly (no install)
 Head to the [itch.io page](https://aryalunawatgames.itch.io/spookygame) and click **Run Spooky Game**.
@@ -67,6 +138,15 @@ cd SpookyGame
 Then run `Spooky Game.exe`.
 
 > ⚠️ As an unsigned indie build, Windows SmartScreen may flag it on first launch — this is expected for small, self-published games and not a sign of malicious content.
+
+---
+
+## 🗺️ Roadmap
+
+- [ ] Commit full project source (engine project files, scripts, scenes) to this repo
+- [ ] Add repo description, topics, and cover image on GitHub
+- [ ] Add a gameplay trailer to this README
+- [ ] Expand beyond the mansion with additional levels
 
 ---
 
